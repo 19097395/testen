@@ -1,3 +1,4 @@
+h()
 async function h()
 {
 	alert('hi');
